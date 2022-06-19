@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsramin
+- 👋 Hi, I’m ramin.
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning javascript
 - 📫 text me by [email](raminshakooei@gmail.com)
