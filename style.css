@@ -30,6 +30,10 @@ h2 {
   font-weight: bold;
   padding-bottom: 1.3rem;
 }
+p {
+  padding-bottom: 1rem;
+  text-indent: 1rem;
+}
 .header__menu {
   display: flex;
   flex-direction: column;
@@ -56,6 +60,15 @@ h2 {
 .list__item--active {
   padding-bottom: 10px;
   border-bottom: 3px solid #2971a1;
+}
+.btn--project {
+  color: #2971a1;
+  cursor: pointer;
+  border-bottom: 1px solid #2971a1;
+  transition: border 0.3s;
+}
+.btn--project:hover {
+  border-bottom: 1px solid transparent;
 }
 
 .hidden {
@@ -146,7 +159,6 @@ h2 {
   display: flex;
   align-items: flex-start;
   justify-content: space-around;
-  height: 80px;
 }
 .icons {
   width: 50px;
@@ -180,26 +192,50 @@ h2 {
 }
 
 @media only screen and (max-width: 600px) {
+  header {
+    gap: 1rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-bottom: 1.3rem;
+  }
+
   .article__item {
     flex-direction: column;
     gap: 1rem;
+  }
+  .section__item {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .wrap {
+    padding: 80px 20px;
+  }
+  .header__title {
+    font-size: 1.2rem;
+  }
+  .header__list {
+    gap: 1rem;
+  }
+  .list__item {
+    font-size: 1rem;
+  }
+  .header__image img {
+    width: 60px;
   }
   .section__item.contact {
     max-width: 250px;
     margin: 0 auto;
   }
   .links {
-    flex-direction: column;
-    align-items: flex-start;
-    height: 370px;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2rem;
     margin: 0 auto;
     max-width: 140px;
-    padding-left: 3rem;
   }
-  .contact--link:hover {
-    display: flex;
-    flex-direction: row;
-    align-items: start;
-    gap: 1rem;
+  .icons {
+    width: 40px;
   }
 }
