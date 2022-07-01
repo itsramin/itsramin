@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="http://fonts.cdnfonts.com/css/roboto" rel="stylesheet" />
+    <link rel="stylesheet" href="./reset.css" />
+    <link rel="stylesheet" href="./style.css" />
+
+    <script src="./script.js" defer></script>
+    <title>Ramin</title>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="header__image">
+          <img src="./media/profile.jpg" alt="" />
+        </div>
+        <div class="header__menu">
+          <div class="header__title">Ramin Shakooei</div>
+
+          <ul class="header__list">
+            <li class="list__item list__item--active" data-name="about">
+              About
+            </li>
+            <li class="list__item" data-name="projects">Projects</li>
+            <li class="list__item" data-name="contact">Contact</li>
+          </ul>
+        </div>
+      </header>
+      <main>
+        <section class="section__item about">
+          <h2>Hi, I'm Ramin.</h2>
+          <p>
+            I'm a junior front-end developer from Tabriz, Iran. Worked for 2
+            years as a graphic designer. I love minimal designes as you see :)
+          </p>
+        </section>
+        <section class="section__item projects hidden">
+          <article class="article__item">
+            <div class="article__image">
+              <a href="https://todo-ramin.netlify.app/" target="_blank"
+                ><img src="./media/todo.JPG" alt=""
+              /></a>
+            </div>
+            <div class="article__body">
+              <a
+                class="article__title"
+                href="https://todo-ramin.netlify.app/"
+                target="_blank"
+                >Todo list app</a
+              >
+              <div class="article__description">
+                A simple todo application without any library, working with
+                html, css and javascript. Some features are:
+                <ul>
+                  <li>due date</li>
+                  <li>dark mode</li>
+                  <li>categories</li>
+                  <li>sort by time</li>
+                  <li>show missed tasks</li>
+                  <li>repetition interval</li>
+                  <li>responsive interface</li>
+                  <li>search between all tasks</li>
+                </ul>
+              </div>
+            </div>
+          </article>
+          <article class="article__item">
+            <div class="article__image">
+              <a href="https://pig-game-ramin.netlify.app/" target="_blank"
+                ><img src="./media/pig.JPG" alt=""
+              /></a>
+            </div>
+            <div class="article__body">
+              <a
+                class="article__title"
+                href="https://pig-game-ramin.netlify.app/"
+                target="_blank"
+                >Pig Game</a
+              >
+              <div class="article__description">
+                A developed version of
+                <a href="https://github.com/jonasschmedtmann"
+                  >Jonas Schmedtmann</a
+                >'s pig game of his javascript course. The main feature has been
+                added is Single Player. The BOT's strategy is roll dice until
+                current score reaches 15, then holds it.
+              </div>
+            </div>
+          </article>
+          <article class="article__item">
+            <div class="article__image">
+              <a href="https://itsramin.ir/" target="_blank"
+                ><img src="./media/wordle.JPG" alt=""
+              /></a>
+            </div>
+            <div class="article__body">
+              <a
+                class="article__title"
+                href="https://itsramin.ir/"
+                target="_blank"
+                >Persian Wordle</a
+              >
+              <div class="article__description">
+                Persian wordle game with multiple categories such as cities,
+                animals and fruits.The big different from main "Wordle" is that
+                there isn't 5 characters limitation.
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="section__item contact hidden">
+          <p class="section__title">Social media and contacts</p>
+          <div class="links">
+            <a
+              href="https://twitter.com/itsrgon"
+              target="_blank"
+              class="contact--link"
+            >
+              <img
+                src="./media/icons/twitter.svg"
+                alt="twitter"
+                class="icons icon--twitter"
+              />
+              <span class="icon__title">Twitter</span>
+            </a>
+            <a
+              href="https://www.instagram.com/ramin__shb/"
+              target="_blank"
+              class="contact--link"
+            >
+              <img
+                src="./media/icons/insta.svg"
+                alt="twitter"
+                class="icons icon--insta"
+              />
+              <span class="icon__title">Instagram</span>
+            </a>
+            <a
+              href="mailto:raminshakooei@gmail.com"
+              target="_blank"
+              class="contact--link"
+            >
+              <img
+                src="./media/icons/gmail.svg"
+                alt="twitter"
+                class="icons icon--gmail"
+              />
+              <span class="icon__title">Email</span>
+            </a>
+            <a
+              href="https://github.com/itsramin"
+              target="_blank"
+              class="contact--link"
+            >
+              <img
+                src="./media/icons/github.svg"
+                alt="twitter"
+                class="icons icon--github"
+              />
+              <span class="icon__title">Github</span>
+            </a>
+            <a
+              href="https://www.linkedin.com/in/raminshakooei/"
+              target="_blank"
+              class="contact--link"
+            >
+              <img
+                src="./media/icons/linkedin.svg"
+                alt="twitter"
+                class="icons icon--linkedin"
+              />
+              <span class="icon__title">LinkedIn</span>
+            </a>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
