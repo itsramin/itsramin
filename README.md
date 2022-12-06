@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ramin.
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning javascript
-- 📫 text me by [email](raminshakooei@gmail.com)
+- 👀 I’m interested in front-end.
+- 📱 trying to be an android developer.
+- 📫 text me by [email](mailto:raminshakooei@gmail.com)
 
 <!---
 itsramin/itsramin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
