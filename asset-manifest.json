@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3f42247.css",
-    "main.js": "/static/js/main.f190db67.js",
-    "static/media/memor.jpg": "/static/media/memor.5542e5c5590c24cca371.jpg",
-    "static/media/profile.jpg": "/static/media/profile.835bbf1d1c3e4325e8c7.jpg",
+    "main.css": "/static/css/main.01e688a6.css",
+    "main.js": "/static/js/main.8de2a4c4.js",
+    "static/media/memor.jpg": "/static/media/memor.63814fd120e77fee9cae.jpg",
     "static/media/Vazirmatn-ExtraLight.woff2": "/static/media/Vazirmatn-ExtraLight.901a97d34e331f269815.woff2",
     "static/media/Vazirmatn-Light.woff2": "/static/media/Vazirmatn-Light.a929468e39d61ead9a4a.woff2",
     "static/media/Vazirmatn-Medium.woff2": "/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
@@ -18,6 +17,7 @@
     "static/media/pig.JPG": "/static/media/pig.15630ae179cf0a866790.JPG",
     "static/media/wordle.JPG": "/static/media/wordle.0450a4bfa7ff0f8fea67.JPG",
     "static/media/git.png": "/static/media/git.354e214ea500fd8ad1c0.png",
+    "static/media/profile.jpg": "/static/media/profile.8bd919b6195a22a08c92.jpg",
     "static/media/todo.JPG": "/static/media/todo.f16f5a3066bc35f32c37.JPG",
     "static/media/react.png": "/static/media/react.ac14d2f265d39f14fb97.png",
     "static/media/xd.png": "/static/media/xd.4ce5ee933a1ebec47f1e.png",
@@ -31,11 +31,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.a236a02cbeb24525fd3bcf55fc6e41c6.svg",
     "index.html": "/index.html",
     "static/media/gmail.svg": "/static/media/gmail.5f93003b135e241b018af7d37cf22723.svg",
-    "main.f3f42247.css.map": "/static/css/main.f3f42247.css.map",
-    "main.f190db67.js.map": "/static/js/main.f190db67.js.map"
+    "main.01e688a6.css.map": "/static/css/main.01e688a6.css.map",
+    "main.8de2a4c4.js.map": "/static/js/main.8de2a4c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3f42247.css",
-    "static/js/main.f190db67.js"
+    "static/css/main.01e688a6.css",
+    "static/js/main.8de2a4c4.js"
   ]
 }
