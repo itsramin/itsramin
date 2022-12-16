@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bece0af7.css",
-    "main.js": "/static/js/main.6c105855.js",
+    "main.css": "/static/css/main.55e6bee9.css",
+    "main.js": "/static/js/main.41999962.js",
     "static/media/memor.jpg": "/static/media/memor.63814fd120e77fee9cae.jpg",
     "static/media/Vazirmatn-ExtraLight.woff2": "/static/media/Vazirmatn-ExtraLight.901a97d34e331f269815.woff2",
     "static/media/Vazirmatn-Light.woff2": "/static/media/Vazirmatn-Light.a929468e39d61ead9a4a.woff2",
@@ -31,11 +31,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.a236a02cbeb24525fd3bcf55fc6e41c6.svg",
     "index.html": "/index.html",
     "static/media/gmail.svg": "/static/media/gmail.5f93003b135e241b018af7d37cf22723.svg",
-    "main.bece0af7.css.map": "/static/css/main.bece0af7.css.map",
-    "main.6c105855.js.map": "/static/js/main.6c105855.js.map"
+    "main.55e6bee9.css.map": "/static/css/main.55e6bee9.css.map",
+    "main.41999962.js.map": "/static/js/main.41999962.js.map"
   },
   "entrypoints": [
-    "static/css/main.bece0af7.css",
-    "static/js/main.6c105855.js"
+    "static/css/main.55e6bee9.css",
+    "static/js/main.41999962.js"
   ]
 }
