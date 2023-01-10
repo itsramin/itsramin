@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f3fdad1e.css",
-    "main.js": "/static/js/main.224bc779.js",
+    "main.js": "/static/js/main.df2f01cb.js",
     "static/media/memor.jpg": "/static/media/memor.63814fd120e77fee9cae.jpg",
     "static/media/Vazirmatn-ExtraLight.woff2": "/static/media/Vazirmatn-ExtraLight.901a97d34e331f269815.woff2",
     "static/media/Vazirmatn-Light.woff2": "/static/media/Vazirmatn-Light.a929468e39d61ead9a4a.woff2",
@@ -33,10 +33,10 @@
     "index.html": "/index.html",
     "static/media/gmail.svg": "/static/media/gmail.5f93003b135e241b018af7d37cf22723.svg",
     "main.f3fdad1e.css.map": "/static/css/main.f3fdad1e.css.map",
-    "main.224bc779.js.map": "/static/js/main.224bc779.js.map"
+    "main.df2f01cb.js.map": "/static/js/main.df2f01cb.js.map"
   },
   "entrypoints": [
     "static/css/main.f3fdad1e.css",
-    "static/js/main.224bc779.js"
+    "static/js/main.df2f01cb.js"
   ]
 }
